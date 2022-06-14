@@ -20,10 +20,15 @@
 
 <h4 align="center">Here are some of my open source contributions 👇</h4>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/hansvangent/revue-to-encharge">
     <img width="49%" src="https://www.hansvangent.com/revue-to-encharge.png" alt="Revue to Encharge" />
   </a>
+    <a href="https://github.com/hansvangent/revue-to-mailchimp">
+    <img width="49%" src="https://www.hansvangent.com/revue-to-mailchimp.png" alt="Revue to Mailchimp" />
+  </a>
+</p>
+<p align="left">
   <a href="https://github.com/hansvangent/Bookmarklets-for-SEO">
     <img width="49%" src="https://www.hansvangent.com/bookmarklets-for-seo.png" alt="Bookmarklets for SEO" />
   </a>
