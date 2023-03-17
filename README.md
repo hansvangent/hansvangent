@@ -4,7 +4,7 @@
 
 <p align="center">I'm Hans.<br/> (Content) Marketer, SEO'er, digital marketer with a bachelor in Computer Science. and a <b>huge</b> fan of Open-Source.</p>
 
-<p align="center">I'm a partner at <a href="https://sherlockseo.be/" target="_blank">Sherlock SEO Agency</a>, where we help our clients get higher in Google and get more revenue from their online marketing efforts (both paid and organic) and next to that I'm actively building a WordPress plugin called the <a href="https://www.evergreencontentposter.io/"" target="_blank">Evergreen Content Poster, which helps you double your traffic to your evergreen content by keeping it alive and in front of your target audience on social media.</a></p>
+<p align="center">I'm the founder of <a href="https://usergrowth.io/" target="_blank">User Growth: Content Marketing, SEO, and Paid Media Agency</a>, where we help our clients get higher in Google and get more revenue from their online marketing efforts (both paid and organic). Next to that I'm actively building a WordPress plugin called the <a href="https://www.evergreencontentposter.com/"" target="_blank">Evergreen Content Poster, which helps you double your traffic to your evergreen content by keeping it alive and in front of your target audience on social media.</a></p>
 
 <p align="center">
   <a href="http://twitter.com/jcvangent">
