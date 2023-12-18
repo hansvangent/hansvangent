@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Newsletter-3K-orange?label=Newsletter&logo=mail&style=for-the-badge" alt="Newsleter Subscriber" />
   </a>
     <a href="https://www.youtube.com/c/usergrowth?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC42UKOnqmebhNF-1N-LbWlQ?style=for-the-badge" alt="User Growth on Youtube" />
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC42UKOnqmebhNF-1N-LbWlQ?style=for-the-badge&logo=YouTube" alt="User Growth on Youtube" />
   </a>
 </p>
 
