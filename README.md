@@ -8,13 +8,16 @@
 
 <p align="center">
   <a href="http://twitter.com/jcvangent">
-    <img src="https://img.shields.io/twitter/follow/jcvangent?label=Twitter&logo=twitter&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/follow-%40jcvangent-1DA1F2?logo=twitter&style=for-the-badge" alt="Follow on X (Twitter)" />
   </a>
   <a href="https://www.linkedin.com/in/jcvangent/">
-    <img src="https://img.shields.io/badge/LinkedIn-2.6K-blue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-2.6K-blue?label=LinkedIn&logo=LinkedIn&style=for-the-badge" alt="LinkedIn followers" />
   </a>
   <a href="https://www.evergreencontentposter.com/newsletter/">
-    <img src="https://img.shields.io/badge/Newsletter-3K-orange?label=Newsletter&logo=mail&style=for-the-badge" alt="GitHub badge" />
+    <img src="https://img.shields.io/badge/Newsletter-3K-orange?label=Newsletter&logo=mail&style=for-the-badge" alt="Newsleter Subscriber" />
+  </a>
+    <a href="https://www.youtube.com/c/usergrowth?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC42UKOnqmebhNF-1N-LbWlQ?style=for-the-badge" alt="User Growth on Youtube" />
   </a>
 </p>
 
