@@ -4,7 +4,9 @@
 
 <p align="center">I'm Hans.<br/> (Content) Marketer, SEO'er, a digital marketer with a bachelor in Computer Science. and a <b>huge</b> fan of Open-Source.</p>
 
-<p align="center">I'm the founder of <a href="https://usergrowth.io/" target="_blank">User Growth: Content Marketing, SEO, and Paid Media Agency</a>, where we help our clients get higher in Google and get more revenue from their online marketing efforts (both paid and organic). Next to that, I'm actively building a WordPress plugin called the <a href="https://www.evergreencontentposter.com/" target="_blank">Evergreen Content Poster, which helps you double your traffic to your evergreen content by keeping it alive and in front of your target audience on social media.</a></p>
+<p align="center">I'm the founder of <a href="https://usergrowth.io/" target="_blank">User Growth: Content Marketing, SEO, and Paid Media Agency</a>, where we help our clients get higher in Google and get more revenue from their online marketing efforts (both paid and organic). Next to that:
+  <ul><li>I'm actively building a WordPress plugin called the <a href="https://www.evergreencontentposter.com/" target="_blank">Evergreen Content Poster, which helps you double your traffic to your evergreen content by keeping it alive and in front of your target audience on social media.</a></li>
+<li>I'm building a Browser Extension to help <a href="https://usergrowth.io/resources/rich-results-schema-browser-extension/" target="_blank">validate and test your schema and structured data markup</a>. Currently available for <a href="https://chromewebstore.google.com/detail/rich-results-and-schemaor/appgbhabfeejggifkkbfdbkfckheiojk?hl=en" target="_blank">Chrome</a>, <a href="https://microsoftedge.microsoft.com/addons/detail/rich-results-and-schemao/laeeacnaekkhhfpglnpiepdodhckpkgj" target="_blank">Edge</a>, and <a href="https://addons.mozilla.org/en-GB/firefox/addon/rich-results-schema-tester/" target="_blank">Firefox</a>.</li></ul></p>
 
 <p align="center">
   <a href="http://twitter.com/jcvangent">
