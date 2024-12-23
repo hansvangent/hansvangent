@@ -26,18 +26,15 @@
 <h4 align="center">Here are some of my open source contributions 👇</h4>
 
 <p align="left">
-  <a href="https://github.com/hansvangent/revue-to-encharge">
-    <img width="49%" src="https://www.hansvangent.com/revue-to-encharge.png" alt="Revue to Encharge" />
+  <a href="https://github.com/hansvangent/rank-math-schema-enhancements">
+      <img width="49%" src="https://www.hansvangent.com/rank-math-schema-enhancements.png" alt="Boost your WordPress SEO effortlessly with Schema Enhancements, the key to unlocking richer search results and higher visibility" />
   </a>
-    <a href="https://github.com/hansvangent/revue-to-mailchimp">
-    <img width="49%" src="https://www.hansvangent.com/revue-to-mailchimp.png" alt="Revue to Mailchimp" />
+    <a href="https://github.com/hansvangent/WordPress-Table-of-Contents">
+      <img width="49%" src="https://www.hansvangent.com/wordpress-table-of-conten-with-rankmath-schema-support.png" alt="Easily add a Table of Content with 'SiteNavigationElement' Schema to your website without the need for a plugin" />
   </a>
 </p>
 <p align="left">
   <a href="https://github.com/hansvangent/Bookmarklets-for-SEO">
     <img width="49%" src="https://www.hansvangent.com/bookmarklets-for-seo.png" alt="Bookmarklets for SEO" />
-  </a>
-      <a href="https://github.com/hansvangent/rank-math-schema-enhancements">
-      <img width="49%" src="https://www.hansvangent.com/rank-math-schema-enhancements.png" alt="Boost your WordPress SEO effortlessly with Schema Enhancements, the key to unlocking richer search results and higher visibility" />
   </a>
 </p>
