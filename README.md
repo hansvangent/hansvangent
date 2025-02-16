@@ -34,6 +34,9 @@
   </a>
 </p>
 <p align="left">
+  <a href="https://github.com/hansvangent/WordPress-Link-Finder">
+    <img width="49%" src="https://www.hansvangent.com/wordpress-bitly-link-finder.png" alt="Wordpress Bitly Link Finder" />
+  </a>
   <a href="https://github.com/hansvangent/Bookmarklets-for-SEO">
     <img width="49%" src="https://www.hansvangent.com/bookmarklets-for-seo.png" alt="Bookmarklets for SEO" />
   </a>
